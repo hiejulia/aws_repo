@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "apigateway:GET"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "apigateway:*"
+            ],
+            "Resource": [
+                "arn:aws:apigateway:REPLACE-WITH-YOUR-AWS-REGION::/restapis/*/stages/dev"
+            ]
+        }
+    ]
+}
