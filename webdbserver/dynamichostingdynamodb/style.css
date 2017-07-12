@@ -1,0 +1,11 @@
+ .ssl__nav img {
+        width: auto;
+        height: 50px;
+        max-height: none;
+      }
+      .ssl__nav .nav-right {
+        display: flex;
+      }
+      .ssl__content {
+        padding: 1em;
+      }
