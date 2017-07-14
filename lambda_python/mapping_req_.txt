@@ -1,0 +1,17 @@
+{
+	"httpMethod":"$context.httpMethod",
+	#if( $context.httpMethod == "GET" ) 
+		"queryStringParameters":{"TableName":"$input.params('TableName')"}
+	#{elseif}( $context.httpMethod == "DELETE" )
+		"body": {
+			"Key":$input.json('$.Key'),
+			"TableName":"$input.params('TableName')"
+		}
+	#{else}
+		"body": {
+			"Item":$input.json('$.Item'),
+			"TableName":"$input.params('TableName')"
+		}
+	#end
+}
+			
