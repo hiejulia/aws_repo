@@ -1,0 +1,2 @@
+aws lambda invoke --function-name <function name> --payload '<JSON event>'
+<local output file>
