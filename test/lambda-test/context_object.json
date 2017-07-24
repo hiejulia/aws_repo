@@ -1,0 +1,37 @@
+{
+  //methods
+  success,
+  done,
+  fail,
+  getRemainingTimeInMillis,
+
+  //properties
+  functionName,
+  functionVersion,
+  invokedFunctionArn,
+  memoryLimitInMB,
+  awsRequestId,
+  logGroupName,
+  logStreamName,
+  identity: {
+    cognito_identity_id,
+    cognito_identity_pool_id
+  },
+  clientContext: {
+    client: {
+      installation_id,
+      app_title,
+      app_version_name,
+      app_version_code,
+      app_package_name,
+      Custom,
+    },
+    env: {
+      platform_version
+      platform,
+      make,
+      model,
+      locale,
+    }
+  }
+}

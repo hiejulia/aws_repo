@@ -25,3 +25,5 @@ exports.handler= function(event,context){
 
 }
 //get Users table from dynamobd
+
+
