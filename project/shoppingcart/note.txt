@@ -1,0 +1,32 @@
+project ve shopping cart
++ tech stack
++ serverless framework 
+
+
+
+
+-------
+note project 
++ https://[key]/execute-api.[region].amazonaws.com/[stage]/[path]
+
+
+
+
+
+----
+project tu book Building serverless web application 
++ suy nghi co nen add vao project host static website + AWS services Route53 + S3 upload +CloudFront + serverside cache + https + mail server (chap Hosting a website)
+
+
+
+
+
+----- how to test function 
++ serverless invoke local --function hello
++ npm pack 
+
+
+
+
+
+--- check out with serverless framework : https://yos.io/2017/06/22/serverless-stripe/

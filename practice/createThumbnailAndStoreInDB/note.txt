@@ -1,0 +1,4 @@
+### this folder is for practice chaps in lambda aws book 
+arn:aws:dynamodb:us-east-1:349264414701:table/images
+
+// ko dung lai cho project 

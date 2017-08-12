@@ -1,0 +1,47 @@
+1. https://auth0.com/blog/building-serverless-apps-with-aws-lambda/
+2. serverless framework tham khao : https://blog.fugue.co/2016-05-05-architecting-a-serverless-web-application-in-aws.html
+3. serverless framework examples : check github repo: serverless-examples
+4. check react-serverless example : https://github.com/hiromoon/react-serverless
+
+
+
+
+
+=============================================
+FOR CLOUD SERVICES COURSE PROJECT: 
+A web app that applied all the functions of AWS service va co the la Google Cloud platform , Google app engine, Azure , Firebase o nen tang back end 
+Front end : co the dung VueJS/ ReactJS cho nhanh
+1. create a serverless contact form: 
+https://blog.druskin.co/setting-up-a-contact-form-on-aws-42d7bda49b22
+https://medium.com/@blocksrun/a-newsletter-about-serverless-things-powered-by-api-gateway-lambda-and-mailchimp-74b558aba2bc
+(a subscribe letter )
+
+2. OpenCV image detection (Book)
+https://github.com/danilop/AWS_Lambda_in_Action/tree/master/Chapter05/FaceDetection
+> bat dau tu day > tao ra 1 web app 
+3. Authentication (AWS Cognito - book chap 9 + 10 - tat ca cac dich vu ve authentication - sign up , log in , change pass, reset pass, integrate login process with amazon cognito)
+https://github.com/danilop/AWS_Lambda_in_Action/tree/master/Chapter09/SampleAuth
+https://github.com/danilop/AWS_Lambda_in_Action/tree/master/Chapter10/SampleAuth
+4. Web app to upload the image > and list the image
+
+
+5.Tham khao project structure architecture cua bai nay : https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864
+6. Image upload and facial recognition: 
+https://hackernoon.com/how-to-build-powerful-back-ends-easily-with-serverless-17a833bc7ede
+
+7.Deploy the API gateway: 
+https://medium.com/@rotemtam/serverless-applications-continuous-delivery-with-aws-lambda-and-api-gateway-part-2-deploying-87e3a95236f8
+
+8. Project nay se duoc hoan thanh dau tien, sau do add them cac tinh nang
+http://serverless-stack.com/
+
+9. Sau do se lam tiep project nay add video CRUD and transcode 
+Book serverless lambda ( lam het project trog sach)
+
+https://www.youtube.com/watch?v=NhGEik26324
+
++ Deploy app to EC2 
++ Docker with Project 
++ lambda x SNS
++ lambda x Cloudwatch
++ 

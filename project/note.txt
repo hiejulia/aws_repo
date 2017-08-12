@@ -1,0 +1,9 @@
+Pool Id us-east-1_w8oMAgLNc
+Pool ARN arn:aws:cognito-idp:us-east-1:349264414701:userpool/us-east-1_w8oMAgLNc
+
+
+
+app client id : 266ol467cbq9l6c5p178m9ktm7
+
+
+identity pool id : us-east-1:60674e0d-40b2-4749-a422-51539f888c46 

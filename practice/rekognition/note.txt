@@ -1,0 +1,1 @@
+Project with Facial recogtion to upload the images to aws s3 and use aws rekognition
